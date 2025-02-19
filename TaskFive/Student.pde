@@ -4,10 +4,10 @@ class Student {
   String name;
   int age;
   boolean isFemale;
-  String datamatikerTeam;
+  int datamatikerTeam;
 
   // Constructor
-  Student(String tmpName, int tmpAge, boolean tmpIsFemale, String tmpDatamatikerTeam) {
+  Student(String tmpName, int tmpAge, boolean tmpIsFemale, int tmpDatamatikerTeam) {
 
     name = tmpName;
     age = tmpAge;
