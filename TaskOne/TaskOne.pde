@@ -24,4 +24,4 @@ void message(String message) {
 // 1.d
 void nameAndAge(String name, int age) {
   println("My name is " + name + ", I am " + age + " years old");
-}
+} 

@@ -22,4 +22,4 @@ boolean isClassmates(Student a, Student b) {
   
   // 5.b
   return a.datamatikerTeam == b.datamatikerTeam;
-}
+} 

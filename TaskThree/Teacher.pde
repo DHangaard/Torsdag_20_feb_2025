@@ -24,4 +24,4 @@ class Teacher {
    void printName() {
     println(name);
   }
-}
+} 
